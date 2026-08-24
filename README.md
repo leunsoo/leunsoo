@@ -1,10 +1,10 @@
 <h1 align="left">안녕하세요, 프론트엔드 개발자 이은수입니다 </h1>
 
-사용자가 체감하는 UX뿐 아니라 DX까지 고려해 설계하는 프론트엔드 개발자입니다.
+사용자가 체감하는 UX뿐 아니라 DX까지 고려해 설계하는 프론트엔드 개발자입니다. <br>
 FSD 아키텍처, 재사용 가능한 공통 컴포넌트, API 검증 계층 설계 등 확장 가능한 구조를 만드는 데 관심이 있습니다.
 
 - Email: dmstn9221@gmail.com
-- Velog: https://velog.io/@leunsoo/posts
+- Velog: https://velog.io/@leunsoo/posts ( 블로그는 최근에 재미를 들여 내용이 다소 부족한 편입니다. )
 
 <br>
 
@@ -36,34 +36,33 @@ FSD 아키텍처, 재사용 가능한 공통 컴포넌트, API 검증 계층 설
 ## 🚀 Featured Projects
 
 ### [SAT 학원 단어 시험 관리 서비스](https://learnvocably.com) (외주 · FE 단독)
-불명확한 요구사항 환경에서 오프라인 시험 프로세스를 직접 조사해 명세화하고, FE 1인·BE 1인 체제로 기획부터 개발까지 전 과정을 담당했습니다.
-FSD 아키텍처로 요구사항 변경 시 영향 범위를 사전에 파악할 수 있는 구조를 설계했고, 공통 컴포넌트·API 검증 계층·중앙 에러 핸들링을 구축했습니다. 현재까지 실 운영 중입니다.
+불명확한 요구사항 환경에서 오프라인 시험 프로세스를 직접 조사해 명세화하고, FE 1인·BE 1인 체제로 기획부터 개발까지 전 과정을 담당했습니다. <br>
+FSD 아키텍처로 요구사항 변경 시 영향 범위를 사전에 파악할 수 있는 구조를 설계했고, 공통 컴포넌트·API 검증 계층·중앙 에러 핸들링을 구축했습니다. <br>
+현재까지 실 운영 중입니다.
 
 `React` `TypeScript` `Tailwind CSS` `TanStack Query` `TanStack Router` `OpenAPI TypeScript`
 
 ### [코스플레이어 커뮤니티 웹 서비스](https://llowa.kr) (팀 프로젝트 · FE 담당)
-FE 1인(본인)·BE 3인·Full-stack 1인 체제로 실시간 통신, 데이터 페칭 등 프론트엔드 아키텍처 전반을 설계·구현했습니다.
-백엔드 연동을 포함해 서비스 개발은 완료했으나 팀 차원의 결정으로 정식 출시는 보류되어, 포트폴리오 목적으로 mock 데이터 기반으로 재배포했습니다.
+FE 1인(본인)·BE 3인·Full-stack 1인 체제로 실시간 통신, 데이터 페칭 등 프론트엔드 아키텍처 전반을 설계·구현했습니다. <br>
+백엔드 연동을 포함해 서비스 개발은 완료했으나 팀 차원의 결정으로 정식 출시는 보류되어, 포트폴리오 목적으로 mock 데이터 기반으로 재배포했습니다. <br>
 현재는 학습 목적으로 지속적인 리팩토링 과정에 있습니다.
 
 `Next.js` `TypeScript` `TanStack Query` `Zustand` `Zod` `Tailwind CSS` `STOMP/SockJS`
 
 <br>
 
-## 🎓 Education
+## Education
 
-**삼성 청년 SW·AI 아카데미** 수료 | 2025.01 – 2025.12 (Web·Frontend·Backend 풀스택 과정)
+**삼성 청년 SW·AI 아카데미** 수료 | 2025.01 – 2025.12 (Web·Frontend·Backend 풀스택 과정) <br>
 **공주대학교(공주신관)** 게임디자인학과 | 2016.03 – 2021.02 졸업
 
 <br>
 
-## 📜 Certificates
+##  Certificates
 
 **정보처리기사** | 취득일 [2025.06]
 
 <br>
 
 ## 📊 GitHub Stats
-
-<!-- 아이디 입력 후 사용하세요: https://github-readme-stats.vercel.app -->
-<!-- ![이은수의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=leunsoo&show_icons=true&theme=default) -->
+https://github-readme-stats.vercel.app/api?username=leunsoo&show_icons=true&theme=default
