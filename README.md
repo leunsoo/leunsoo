@@ -65,4 +65,5 @@ FE 1인(본인)·BE 3인·Full-stack 1인 체제로 실시간 통신, 데이터 
 <br>
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=leunsoo&show_icons=true&theme=default
+
+![이은수의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=leunsoo&show_icons=true&theme=default)
