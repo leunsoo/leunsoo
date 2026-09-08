@@ -4,7 +4,6 @@
 FSD 아키텍처, 재사용 가능한 공통 컴포넌트, API 검증 계층 설계 등 확장 가능한 구조를 만드는 데 관심이 있습니다.
 
 - Email: dmstn9221@gmail.com
-- Velog: https://velog.io/@leunsoo/posts ( 블로그는 최근에 재미를 들여 내용이 다소 부족한 편입니다. )
 
 <br>
 
